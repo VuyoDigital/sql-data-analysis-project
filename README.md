@@ -31,7 +31,7 @@ The dataset contains raw data with duplicates, missing values, and inconsistenci
 - Data Analysis
 - SQL (CTEs, Window Functions, GROUP BY)
 - Problem Solving
-- ## Key Insights
+- ## Key  Business Insights
 - The tech industry recorded the highest number of layoffs, making it the most affected sector.
 - Layoffs peaked in 2022, indicating a significant economic downturn during that period.
 - A small number of companies accounted for a large proportion of total layoffs.
